@@ -1,3 +1,3 @@
-def my_each(collection) do |i|
-  puts i 
+def my_each(collection)
+  collection.count
 end
