@@ -1,3 +1,6 @@
 def my_each(collection)
-  collection.count
+  i = 0
+  while i < collection.length
+    
+  end
 end
